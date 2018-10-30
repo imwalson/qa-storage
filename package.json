@@ -1,0 +1,8 @@
+{
+  "name": "qa-storage",
+  "description": "quick app plugin for work with storage ",
+  "version": "1.0.0",
+  "author": "walson <walson.wu@inmobi.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
